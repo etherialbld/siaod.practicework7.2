@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mechrevo\\Desktop\\\u0421\u0418\u0410\u041E\u0414\\PracticeWork_7.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A322750A-5168-4E86-B910-80FF43BA0DBE}|PracticeWork_7.2.vcxproj|C:\\Users\\Mechrevo\\Desktop\\\u0421\u0418\u0410\u041E\u0414\\PracticeWork_7.2\\PracticeWork_7.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A322750A-5168-4E86-B910-80FF43BA0DBE}|PracticeWork_7.2.vcxproj|solutionrelative:PracticeWork_7.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PracticeWork_7.2.cpp",
+              "DocumentMoniker": "C:\\Users\\Mechrevo\\Desktop\\\u0421\u0418\u0410\u041E\u0414\\PracticeWork_7.2\\PracticeWork_7.2.cpp",
+              "RelativeDocumentMoniker": "PracticeWork_7.2.cpp",
+              "ToolTip": "C:\\Users\\Mechrevo\\Desktop\\\u0421\u0418\u0410\u041E\u0414\\PracticeWork_7.2\\PracticeWork_7.2.cpp",
+              "RelativeToolTip": "PracticeWork_7.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T00:08:51.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
