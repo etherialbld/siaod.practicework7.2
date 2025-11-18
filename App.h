@@ -7,10 +7,9 @@
 
 class App
 {
-private:
-	std::vector < std::vector <int> > graph;
 public:
-	void graphInit();
+	App();
+	std::vector < std::vector <int> > graphInit();
 	void primsAlgorithm(std::vector < std::vector <int> > graph);
 };
 

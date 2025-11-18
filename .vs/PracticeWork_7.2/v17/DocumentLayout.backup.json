@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Mechrevo\\Desktop\\\u0421\u0418\u0410\u041E\u0414\\PracticeWork_7.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A322750A-5168-4E86-B910-80FF43BA0DBE}|PracticeWork_7.2.vcxproj|C:\\Users\\Mechrevo\\Desktop\\\u0421\u0418\u0410\u041E\u0414\\PracticeWork_7.2\\PracticeWork_7.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A322750A-5168-4E86-B910-80FF43BA0DBE}|PracticeWork_7.2.vcxproj|solutionrelative:PracticeWork_7.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A322750A-5168-4E86-B910-80FF43BA0DBE}|PracticeWork_7.2.vcxproj|C:\\Users\\Mechrevo\\Desktop\\\u0421\u0418\u0410\u041E\u0414\\PracticeWork_7.2\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A322750A-5168-4E86-B910-80FF43BA0DBE}|PracticeWork_7.2.vcxproj|solutionrelative:App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A322750A-5168-4E86-B910-80FF43BA0DBE}|PracticeWork_7.2.vcxproj|C:\\Users\\Mechrevo\\Desktop\\\u0421\u0418\u0410\u041E\u0414\\PracticeWork_7.2\\App.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A322750A-5168-4E86-B910-80FF43BA0DBE}|PracticeWork_7.2.vcxproj|solutionrelative:App.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A322750A-5168-4E86-B910-80FF43BA0DBE}|PracticeWork_7.2.vcxproj|C:\\Users\\Mechrevo\\Desktop\\\u0421\u0418\u0410\u041E\u0414\\PracticeWork_7.2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A322750A-5168-4E86-B910-80FF43BA0DBE}|PracticeWork_7.2.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +35,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PracticeWork_7.2.cpp",
-              "DocumentMoniker": "C:\\Users\\Mechrevo\\Desktop\\\u0421\u0418\u0410\u041E\u0414\\PracticeWork_7.2\\PracticeWork_7.2.cpp",
-              "RelativeDocumentMoniker": "PracticeWork_7.2.cpp",
-              "ToolTip": "C:\\Users\\Mechrevo\\Desktop\\\u0421\u0418\u0410\u041E\u0414\\PracticeWork_7.2\\PracticeWork_7.2.cpp",
-              "RelativeToolTip": "PracticeWork_7.2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "App.cpp",
+              "DocumentMoniker": "C:\\Users\\Mechrevo\\Desktop\\\u0421\u0418\u0410\u041E\u0414\\PracticeWork_7.2\\App.cpp",
+              "RelativeDocumentMoniker": "App.cpp",
+              "ToolTip": "C:\\Users\\Mechrevo\\Desktop\\\u0421\u0418\u0410\u041E\u0414\\PracticeWork_7.2\\App.cpp",
+              "RelativeToolTip": "App.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T11:28:45.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.h",
+              "DocumentMoniker": "C:\\Users\\Mechrevo\\Desktop\\\u0421\u0418\u0410\u041E\u0414\\PracticeWork_7.2\\App.h",
+              "RelativeDocumentMoniker": "App.h",
+              "ToolTip": "C:\\Users\\Mechrevo\\Desktop\\\u0421\u0418\u0410\u041E\u0414\\PracticeWork_7.2\\App.h",
+              "RelativeToolTip": "App.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-16T19:25:17.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Mechrevo\\Desktop\\\u0421\u0418\u0410\u041E\u0414\\PracticeWork_7.2\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Mechrevo\\Desktop\\\u0421\u0418\u0410\u041E\u0414\\PracticeWork_7.2\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-16T00:08:51.114Z",
               "EditorCaption": ""
